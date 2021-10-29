@@ -5,5 +5,5 @@
 2. Joker
 3. Flash Reverso
 4. Doomsday
-5. Deadshott
+5. Deadshotta
 6. Harley Quinn
